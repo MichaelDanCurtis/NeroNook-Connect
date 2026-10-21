@@ -1,0 +1,9 @@
+.build/
+.swiftpm/
+dist/
+.DS_Store
+service/supabase/.temp/
+service/node_modules/
+.env*
+Resources/Service.json
+reports/
